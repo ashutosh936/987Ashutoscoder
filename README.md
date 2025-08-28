@@ -1,13 +1,14 @@
-<!-- HEADER -->
-<h1 align="center">
-  <span style="color:#36BCF7;">👋 Hi, my name is Ashutosh</span>  
-</h1>
-<h3 align="center">💻 Full-Stack Developer | 🌐 Java & MERN Enthusiast | 🚀 Lifelong Learner</h3>
+<!-- WATERFALL ANIMATION TOP -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=180&section=header&text=👋%20Hi%2C%20I'm%20Ashutosh%20Vishwakarma&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">💻 Full-Stack Developer | 🌐  MERN Enthusiast</h3>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/ashutosh936">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=550&lines=Passionate+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+MERN;Love+Clean+Code+and+DSA;Always+Learning+New+Tech" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Final+Year+IT+Student;Full+Stack+Developer;Java+%7C+MERN+Stack;Exploring+APIs+%26+Cloud;Lifelong+Learner+%26+Tech+Enthusiast" />
   </a>
 </p>
 
@@ -15,25 +16,56 @@
 
 ## 🌟 About Me
 - 🎓 Final-year **Information Technology student** (OIST, Bhopal).  
-- 💡 Strong foundation in **DSA, Java, and Full-Stack Development**.  
-- 🛠 Skilled in **React.js, Node.js, Express.js, MongoDB, MySQL, Spring Boot**.  
-- 🤖 Exploring **AI-powered developer tools** like GitHub Copilot, Cursor IDE, and ChatGPT.  
-- 🌍 Interested in **Backend Engineering, APIs, and Cloud Integration**.  
+- 💡 Strong foundation in **Data Structures & Algorithms (DSA)** and **full-stack development**.  
+- 🛠 Proficient in **React.js, Node.js, Express.js, MongoDB, MySQL**.  
+- 🤖 Hands-on with **AI developer tools** like GitHub Copilot, Cursor IDE, and ChatGPT.  
+- 🌍 Interested in **API Development, Cloud Integration, and Backend Engineering**.  
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Java, JavaScript (ES6+), SQL  
-**Frontend:** React.js, HTML5, CSS3, TailwindCSS, Bootstrap  
-**Backend:** Node.js, Express.js, Spring Boot (Basics), REST APIs, JWT  
-**Databases:** MongoDB, MySQL  
-**Cloud & DevOps:** Git, GitHub, Postman, Docker (Basics), AWS (Basics)  
-**Tools:** VS Code, IntelliJ IDEA, GitHub Copilot, ChatGPT, Cursor IDE  
+## 🛠 Skills Summary
+- **Languages:** Java, JavaScript (ES6+), SQL  
+- **Frontend:** React.js, HTML5, CSS3, TailwindCSS, Bootstrap  
+- **Backend:** Node.js, Express.js, RESTful APIs, Socket.IO  
+- **Databases:** MongoDB, MySQL  
+- **Cloud & DevOps:** Git, GitHub, Postman, VS Code, IntelliJ, Docker (Basics), AWS (Basics)  
+- **AI Tools:** GitHub Copilot, Cursor IDE, ChatGPT  
+- **Core Concepts:** DBMS, OOPs, Operating Systems, Computer Networks  
+
+---
+
+## 💼 Work Experience
+**Web Development Intern** | *Zidio Development* (Jun 2025 – Aug 2025)  
+- Developed responsive UI with **React.js & Tailwind CSS**.  
+- Integrated **APIs** for dynamic rendering and improved UX.  
+- Built **modular reusable components** for scalability.  
+- Explored visualization of **GitHub collaboration** in classrooms.  
+
+---
+
+## 🚀 Projects
+**MentoraX – Career Counseling Portal** *(Sep 2024 – Oct 2024)*  
+*React.js | Node.js | Express.js | MongoDB | JWT*  
+- Built a **secure platform** with JWT authentication & MongoDB.  
+- Developed **RESTful APIs** for appointments, feedback, and notifications.  
+- Designed a **responsive frontend** with React & Styled Components.  
+
+**Excel Analytical Platform** *(Jul 2024 – Aug 2024)*  
+*React.js | Node.js | Express.js | MySQL | Pandas.js*  
+- Engineered a **web-based analytics tool** for real-time data processing.  
+- Built **CRUD APIs** with Node.js & Express.js.  
+- Designed **dynamic dashboards** using React.js, D3.js/Chart.js, and Material-UI.  
+
+**API Mini Projects** *(Jan 2023 – Aug 2023)*  
+- 🎬 **Movie Search App** – Fetch movies using OMDB/TMDB API.  
+- 🐙 **GitHub User Finder** – Display profiles & repos using GitHub API.  
+- 💱 **Currency Converter** – Live conversion with ExchangeRate API.  
+
+--- 
 
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutosh936&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -50,29 +82,18 @@
 
 ---
 
-## 🚀 Projects
-- **MentoraX** – Secure career counseling portal with JWT authentication & MongoDB.  
-- **Excel Analytical Platform** – Web-based analytics with React.js, MySQL & Pandas.js.  
-- **API Mini Projects** – Movie Search App, GitHub User Finder, Currency Converter.  
-
----
-
-## 🏅 Certifications
-- **NPTEL** – Programming in Java  
-- **CRISP Internship** – Java Programming  
-- **CCNA, Cybersecurity & Networking Essentials** – Threat analysis, IP addressing, routing  
-- **IEEE CODE-2K25** – Certified Research Paper Presentation  
-- **Workshop** – Robotics & IoT (Reffto)  
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashu37/"><img src="https://img.shields.io/badge/-Ashutosh%20Vishwakarma-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ashutosh.vishwakarma2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ashu37/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ashutosh.vishwakarma2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ashutosh936"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a>
+</p>
+
+<!-- WATERFALL ANIMATION BOTTOM -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=150&section=footer" />
 </p>
 
 ---
 
-⭐️ From [Ashutosh](https://github.com/ashutosh936)
+⭐️ From [Ashutosh Vishwakarma](https://github.com/ashutosh936)
