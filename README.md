@@ -1,42 +1,46 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Vishwakarma</h1>
-<h3 align="center">🚀 A Passionate MERN Stack Developer | Learner | Explorer 🚀</h3>
+# Balram Prajapati here!
+
+### MERN Stack Developer | Tech Enthusiast | Lifelong Learner
 
 ---
 
-## 🙋‍♂️ About Me
-- 🎓 B.Tech Student in Information Technology at OIST, Bhopal  
-- 💻 I love building **user-friendly & scalable web apps**  
-- 🌱 Currently learning **Node.js & DevOps**  
-- ☁️ Exploring **Cloud Computing**  
-- ⚡ Fun Fact: I enjoy solving real-world problems  
+## About Me
+
+- Currently working on: DevMeet – a developer meetup app
+- Learning: Next.js + TypeScript
+- Tech Stack: React ⚛️ | Node.js | Express | MongoDB
+- Passionate about UI, clean code, and problem-solving
+- Portfolio: [Click Here]
+- Reach me: balramprajapati3263@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,java,git,github,vscode" />
-</p>
+## Connect with Me
+(Link to LinkedIn)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=987Ashutoscoder&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=987Ashutoscoder&layout=compact&theme=tokyonight" width="48%" />
-</p>
+## Tech Stack I Work With (badges/images)
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=987Ashutoscoder&theme=github-compact" />
-</p>
+## GitHub Stats That Matter (stats/images)
 
 ---
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashu37"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/987Ashutoscoder"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" /></a>
-  <a href="mailto:ashutosh@example.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" /></a>
-</p>
+## My Contribution Streak (image)
+
+---
+
+## Featured Projects
+- *DevMeet* – A developer collaboration and meetup platform. (React, Node.js, MongoDB)
+- *HelpMate* – On-demand home services platform (Urban Company clone). (HTML, CSS, JS)
+- *Weather App* – Real-time weather app using external API. (JS, HTML, CSS)
+- *QR Code Generator* – Generates QR codes with a clean UI. (JavaScript, Tailwind)
+- *Portfolio Website* – Personal developer portfolio site. (HTML, CSS, JS)
+
+---
+
+### Let’s Collaborate!
+
+> I’m open for internships, freelance work, open-source collabs or just tech talks! Let’s build something amazing
