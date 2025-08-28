@@ -1,79 +1,63 @@
-<!-- HEADER -->
-<h1 align="center">🚀 Ashutosh Vishwakarma here!</h1>
-<h3 align="center">💻 MERN Stack Developer | 🌐 Tech Explorer | 🎯 Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Ashutosh</h1>
+<h3 align="center">A Passionate MERN Stack Developer & Tech Enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+I+am+Ashutosh+%F0%9F%91%8B;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Always+curious+to+learn+%F0%9F%93%9A" alt="Typing SVG" />
+---
+
+## 🚀 About Me  
+- 🎓 B.Tech student in Information Technology at OIST Bhopal  
+- 💻 Love building user-friendly web apps with **MERN Stack**  
+- 📚 Exploring **Cloud Computing & DevOps**  
+- 🎯 Goal: To solve real-world problems with tech  
+- ⚡ Fun fact: I enjoy learning new technologies every day!  
+
+---
+
+## 🌐 Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/ashu37" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ashutosh936" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ashutoshvishwakarma936@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently working on: **Blogging Platform Project**  
-- 🌱 Learning: **Node.js + DevOps**  
-- 🔧 Tech Stack: React ⚛️ | Node.js 🟢 | Express 🚂 | MongoDB 🍃  
-- 💡 Passionate about solving real-world problems with code  
-- 🌐 Portfolio: [Click Here](https://987ashutoscoder.github.io/)  
-- 📬 Reach me: **ashutoshvishwakarma.dev@gmail.com**
-
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashu37/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:ashutoshvishwakarma.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/987Ashutoscoder" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+## ⚡ Tech Stack  
+<p align="left">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  
 </p>
 
 ---
 
-## 🧠 Tech Stack I Work With
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,tailwind,git,postman,mysql,python" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh936&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh936&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats That Matter
-
+## 🔥 My Contribution Streak  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=987Ashutoscoder&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=987Ashutoscoder&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh936&theme=radical" alt="GitHub Streak" height="200em"/>
 </p>
 
 ---
 
-## 🔥 My Contribution Streak
-
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=987Ashutoscoder&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh936&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="Trophies"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**Blogging Platform**](https://github.com/987Ashutoscoder/blogging-platform) | Full-featured blogging site with auth, CRUD, comments, likes & admin dashboard. | MERN, Redux, Tailwind |
-| [**Portfolio Website**](https://987ashutoscoder.github.io/) | My personal developer portfolio. | HTML, CSS, JS |
-| [**Weather App**](https://987ashutoscoder.github.io/Weather-app/) | Real-time weather updates using API. | JS, HTML, CSS |
-| [**QR Code Generator**](https://987ashutoscoder.github.io/Qr-code-Generator/) | Generates QR codes with smooth UI. | JavaScript, Tailwind |
-| [**GitHub Projects**](https://github.com/987Ashutoscoder) | Explore more of my repositories. | Mixed Tech |
-
----
-
-### 🎯 Let's Collaborate!
-> I'm open for internships, freelance work, open-source collabs or just tech talks! Let's build something amazing 🚀
-
+## ✨ Quote of the Day  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0aa9ff&height=120&section=footer"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
