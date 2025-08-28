@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=180&section=header&text=👋%20Hi%2C%20I'm%20Ashutosh%20Vishwakarma&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </p>
-
-<h3 align="center">💻 Full-Stack Developer | 🌐  MERN Enthusiast</h3>
+<h1 align="center">Ashutosh Vishwakarma </h1>
+<h3 align="center">💻 Full-Stack Developer | 🌐 MERN Enthusiast | </h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -17,20 +17,16 @@
 ## 🌟 About Me
 - 🎓 Final-year **Information Technology student** (OIST, Bhopal).  
 - 💡 Strong foundation in **Data Structures & Algorithms (DSA)** and **full-stack development**.  
-- 🛠 Proficient in **React.js, Node.js, Express.js, MongoDB, MySQL**.  
+- 🛠 Proficient in **React.js, Node.js, Express.js, MongoDB, MySQL, Java**.  
 - 🤖 Hands-on with **AI developer tools** like GitHub Copilot, Cursor IDE, and ChatGPT.  
 - 🌍 Interested in **API Development, Cloud Integration, and Backend Engineering**.  
 
 ---
 
-## 🛠 Skills Summary
-- **Languages:** Java, JavaScript (ES6+), SQL  
-- **Frontend:** React.js, HTML5, CSS3, TailwindCSS, Bootstrap  
-- **Backend:** Node.js, Express.js, RESTful APIs, Socket.IO  
-- **Databases:** MongoDB, MySQL  
-- **Cloud & DevOps:** Git, GitHub, Postman, VS Code, IntelliJ, Docker (Basics), AWS (Basics)  
-- **AI Tools:** GitHub Copilot, Cursor IDE, ChatGPT  
-- **Core Concepts:** DBMS, OOPs, Operating Systems, Computer Networks  
+## 🛠 Tech Stack I Work With
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,tailwind,ts,git,postman,mysql,aws&theme=dark" />
+</p>
 
 ---
 
@@ -61,7 +57,15 @@
 - 🐙 **GitHub User Finder** – Display profiles & repos using GitHub API.  
 - 💱 **Currency Converter** – Live conversion with ExchangeRate API.  
 
---- 
+---
+
+## 🏅 Certificates
+- NPTEL Online Certification – **Programming in Java**  
+- CRISP Internship – **Java Programming**  
+- Web Development Training – **SkillCraft Technology**  
+- CCNA (1–3), Cybersecurity Essentials, Networking Essentials – **IP, Routing, Threat Analysis, Switch Config**  
+- Certified – **CODE-2K25 IEEE Research Paper Presentation**  
+- Robotics & IoT Workshop – **Reffto**  
 
 ---
 
@@ -84,9 +88,9 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashu37/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ashutosh.vishwakarma2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ashutosh936"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/ashu37/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:ashutosh.vishwakarma2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/ashutosh936"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 <!-- WATERFALL ANIMATION BOTTOM -->
