@@ -28,14 +28,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,tailwind,ts,git,postman,mysql,aws&theme=dark" />
 </p>
 
----
 
-## 💼 Work Experience
-**Web Development Intern** | *Zidio Development* (Jun 2025 – Aug 2025)  
-- Developed responsive UI with **React.js & Tailwind CSS**.  
-- Integrated **APIs** for dynamic rendering and improved UX.  
-- Built **modular reusable components** for scalability.  
-- Explored visualization of **GitHub collaboration** in classrooms.  
 
 ---
 
@@ -50,24 +43,7 @@
 *React.js | Node.js | Express.js | MySQL | Pandas.js*  
 - Engineered a **web-based analytics tool** for real-time data processing.  
 - Built **CRUD APIs** with Node.js & Express.js.  
-- Designed **dynamic dashboards** using React.js, D3.js/Chart.js, and Material-UI.  
-
-**API Mini Projects** *(Jan 2023 – Aug 2023)*  
-- 🎬 **Movie Search App** – Fetch movies using OMDB/TMDB API.  
-- 🐙 **GitHub User Finder** – Display profiles & repos using GitHub API.  
-- 💱 **Currency Converter** – Live conversion with ExchangeRate API.  
-
----
-
-## 🏅 Certificates
-- NPTEL Online Certification – **Programming in Java**  
-- CRISP Internship – **Java Programming**  
-- Web Development Training – **SkillCraft Technology**  
-- CCNA (1–3), Cybersecurity Essentials, Networking Essentials – **IP, Routing, Threat Analysis, Switch Config**  
-- Certified – **CODE-2K25 IEEE Research Paper Presentation**  
-- Robotics & IoT Workshop – **Reffto**  
-
----
+- Designed **dynamic dashboards** using React.js, D3.js/Chart.js, and Material-UI.    
 
 ## 📊 GitHub Analytics
 <p align="center">
